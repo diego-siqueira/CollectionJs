@@ -1,5 +1,6 @@
 /**
  * Object collection helpers
+ * @author Diego Oliveira <diego_sp_br@hotmail.com>
  */
 class Collection extends Array {
     /**
